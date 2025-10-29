@@ -52,15 +52,6 @@
 
 ---
 
-## ☕ Support My Work
-
-<p align="left">
-  <a href="https://www.buymeacoffee.com/simplified" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
